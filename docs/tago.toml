@@ -1,0 +1,10 @@
+title       = "rcsb"
+baseURL     = "https://rcsb-cli.tamnd.com/"
+description = "A command line for rcsb."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/rcsb-cli"
